@@ -14,7 +14,7 @@ export default function MusicPage() {
     <SiteShell>
       <PageIntro eyebrow="Listen" title="Songs carried across water.">
         <p>
-          Folk melody, metal weight and narrative songwriting—performed and recorded
+          Folk melody, metal weight and narrative songwriting, performed and recorded
           by Derek Corcoran with flute, bouzouki, guitars, bass, percussion and voice.
         </p>
       </PageIntro>
@@ -66,7 +66,7 @@ export default function MusicPage() {
           <p>
             The Runes chapters are an evolving narrative project. The versions now on
             Spotify and YouTube are clearly presented as public demos or chapter
-            releases—not as announcements of unconfirmed future recordings.
+            releases, not as announcements of unconfirmed future recordings.
           </p>
         </div>
         <img

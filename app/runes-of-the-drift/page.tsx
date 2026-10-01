@@ -15,7 +15,7 @@ export default function RunesPage() {
       <PageIntro eyebrow="The central narrative" title="Runes of the Drift">
         <p>
           A nameless Traveler, born beneath Patagonia’s endless skies but shaped by
-          distant myths, his mother’s songs and ancestral stories, crosses oceans and
+          distant myths, old songs and ancestral stories, crosses oceans and
           time in search of belonging, truth and home.
         </p>
       </PageIntro>
@@ -33,7 +33,7 @@ export default function RunesPage() {
         <div className="video-frame landscape-video">
           <iframe
             src="https://www.youtube-nocookie.com/embed/Lhc2sGV2r9s"
-            title="We Are Pirates — Runes of the Drift Chapter II"
+            title="We Are Pirates: Runes of the Drift Chapter II"
             loading="lazy"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen

@@ -34,7 +34,7 @@ export const releases = [
     language: "English",
     type: "Original single · Runes Chapter II",
     description:
-      "A pursued crew hears pirates singing beyond the cliffs and wonders whether they are monsters—or another face of the sea’s wild spirit.",
+      "A pursued crew hears pirates singing beyond the cliffs and wonders whether they are monsters, or another face of the sea’s wild spirit.",
     spotify: "https://open.spotify.com/track/1c7HTJbAMa0MxSHhu3Bg1q",
     youtube: "https://www.youtube.com/watch?v=Lhc2sGV2r9s",
   },
@@ -117,7 +117,7 @@ export const chapters = [
     number: "X",
     title: "Still Moving Between Fires",
     summary:
-      "The road calls again. Home is no longer one fire or harbor, but the crossing itself—and the person walking beside you.",
+      "The road calls again. Home is no longer one fire or harbor, but the crossing itself, and the person walking beside you.",
     spotify: "https://open.spotify.com/track/7iCMSi6szZ0hDMFlKmCFjq",
   },
 ];

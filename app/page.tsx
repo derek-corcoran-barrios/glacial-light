@@ -18,8 +18,8 @@ export default function Home() {
           <p className="eyebrow">Patagonia → Denmark · Mythic folk metal</p>
           <h1>Music from the edges of the world.</h1>
           <p className="hero-copy">
-            Glacial Light is the music of Derek Corcoran—heavy riffs, wandering flutes
-            and old stories reshaped by migration, memory and life between cultures.
+            Glacial Light is the music of Derek Corcoran: heavy riffs, wandering flutes
+            and old stories reshaped by migration, imperfect memory and life between cultures.
           </p>
           <div className="cta-row">
             <ExternalCta href={links.spotify}>Listen on Spotify</ExternalCta>
@@ -37,7 +37,7 @@ export default function Home() {
           <h2>When stories cross borders, they do not stay unchanged.</h2>
           <p>
             Glacial Light follows what happens next: myths collide, memories are
-            inherited imperfectly, and cultural friction becomes a new musical
+            changed, and cultural friction becomes a new musical
             language. Patagonia, Irish heritage, Nordic landscapes and maritime lore
             meet in songs about longing, transformation and belonging.
           </p>

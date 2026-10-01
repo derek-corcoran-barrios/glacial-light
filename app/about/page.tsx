@@ -28,8 +28,8 @@ export default function AboutPage() {
           <p className="eyebrow">Biography</p>
           <h2>Folk, metal and myth as living material.</h2>
           <p>
-            Glacial Light is the creative vessel of Derek Corcoran. Rooted in the
-            windswept landscapes of Patagonia and shaped by Irish heritage, migration
+            Glacial Light is the creative project of Derek Corcoran. Rooted in the
+            windy landscapes of Patagonia and shaped by Irish heritage, migration
             and life between cultures, the project brings maritime imagery and Norse,
             Celtic and Selk’nam-inspired storytelling into folk metal.
           </p>
@@ -46,11 +46,11 @@ export default function AboutPage() {
         <p className="section-index">Artist statement</p>
         <blockquote>
           “I write about what happens when people carry stories across borders: myths
-          change, memories are inherited imperfectly, and different cultural worlds
-          collide before being negotiated and blended into new identities.”
+          change, memories are transmited imperfectly, and different cultural worlds
+          collide before being blended into new identities, myths and stories.”
         </blockquote>
         <p>
-          These themes extend beyond one biography. Migration reshapes partners,
+          These themes extend beyond one person. Migration reshapes partners,
           children and grandchildren as much as it reshapes those who move. In Glacial
           Light, traditions are not fixed artifacts; they travel, meet and become
           something new.
