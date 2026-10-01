@@ -4,7 +4,8 @@
 
 [build.environment]
   NODE_VERSION = "22"
-
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  
 [[headers]]
   for = "/*"
 
